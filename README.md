@@ -16,4 +16,4 @@ this is a bash script it will install social-engineering-toolkit in termux
 
 <code><b>chmod +x setup.sh</b></code></br>
 
-<code><b>./setup.sh<code></b></code></br>
+<code><b>./setup.sh</b></code></br>
