@@ -13,7 +13,8 @@ apt install figlet -y
 apt install wget -y
 apt install unzip -y
 
-wget https://www.mediafire.com/file/lwmpcdvky072481/setoolkit.zip/file
+wget https://www.mediafire.com/file/lwmpcdvky072481/setoolkit.zip
+unzip setoolkit
 
 cd setoolkit
 chmod +x setoolkit
