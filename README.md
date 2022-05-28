@@ -12,7 +12,7 @@ this is a bash script it will install social-engineering-toolkit in termux
 
 <code><b>git clone https://github.com/jithender2/SET-Installer.git</b> </code></br>
 
-<code><b> SET-Installer </b></code></br>
+<code><b>cd SET-Installer </b></code></br>
 
 <code><b>chmod +x setup.sh</b></code></br>
 
