@@ -34,12 +34,13 @@ rm setoolkit.zip
 clear
 echo ""
 echo -e "\033[1;91m"
-echo "CREATED BY "                                               >
+echo "CREATED BY "                                               
 figlet "MR.Ethical YT"
-echo -e "\033[0;92m==============================================>echo -e "\033[0;33mSetoolkit installed succesfully"
-echo       "Please sibscribe : https://youtube.com/channel/UC9mBB>
+echo -e "\033[0;92m=============================================="
+echo -e "\033[0;33mSetoolkit installed succesfully"
+echo       "Please sibscribe : https://youtube.com/channel/UC9mBB"
 
-echo -e "\033[0;92m==============================================>
+echo -e "\033[0;92m=============================================="
 
 echo -e "\033[0mRun 'setoolkit'"
 echo ""
