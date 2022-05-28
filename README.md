@@ -6,10 +6,10 @@ this is a bash script it will install social-engineering-toolkit in termux
 • internet connection <br />
 # Installation & Usage 
 
-<code> <i>This text will be italic</i> <b>this text will be bold</b> </code> </br>
-<code> <i>This text will be italic</i> <b>this text will be bold</b> </code> 
-<code> <i>This text will be italic</i> <b>this text will be bold</b> </code>
-> git clone https://github.com/jithender2/SET-Installer.git 
-cd SET-Installer 
+<code><b>apt update && apt upgrade</b> </code> </br>
+<code><b>apt install git</b> </code> 
+<code><b>git clone https://github.com/jithender2/SET-Installer.git</b> </code>
+
+<code><b> SET-Installer </b></code>
 chmod +x setup.sh 
 ./setup.sh
