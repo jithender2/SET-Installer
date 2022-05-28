@@ -5,7 +5,7 @@ this is a bash script it will install social-engineering-toolkit in termux
 • termux <br />
 • internet connection <br />
 # Installation & Usage 
-> apt update && apt upgrade <br /><
+<span style="background-color: #FFFF00">Marked text</span>
 
 > git clone https://github.com/jithender2/SET-Installer.git 
 cd SET-Installer 
