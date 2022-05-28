@@ -12,7 +12,7 @@ apt install python3 -y
 apt install figlet -y
 apt install wget -y
 apt install unzip -y
-wget https://www.mediafire.com/file/5d5f6sfxhmrtlt5/setoolkit.zip
+wget https://www.mediafire.com/file/lwmpcdvky072481/setoolkit.zip/file
 unzip setoolkit.zip
 
 cd setoolkit
