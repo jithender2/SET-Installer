@@ -14,7 +14,7 @@ apt install wget -y
 apt install unzip -y
 
 wget https://download2264.mediafire.com/6rzxk0jl62yg/lwmpcdvky072481/setoolkit.zip
-unzip setoolkit
+unzip setoolkit.zip
 
 cd setoolkit
 chmod +x setoolkit
