@@ -1,19 +1,22 @@
 #!/bin/bash
-echo -e "\033[0;31m=============================================="
-echo -e "\033[0;33mCreated By Mr.ethical Yt"
-echo       "Please subscribe : https://youtube.com/channel/UC9mBBFxkVWsTtLyuHUjvdbg"
-echo -e "\033[0;31m=============================================="
+
+echo -e "\033[1;31m
+      ███╗   ███╗██████╗     ███████╗████████╗██╗  ██╗██╗ ██████╗ █████╗ ██╗         ██╗   ██╗████████╗
+      ████╗ ████║██╔══██╗    ██╔════╝╚══██╔══╝██║  ██║██║██╔════╝██╔══██╗██║         ╚██╗ ██╔╝╚══██╔══╝
+      ██╔████╔██║██████╔╝    █████╗     ██║   ███████║██║██║     ███████║██║          ╚████╔╝    ██║   
+      ██║╚██╔╝██║██╔══██╗    ██╔══╝     ██║   ██╔══██║██║██║     ██╔══██║██║           ╚██╔╝     ██║   
+      ██║ ╚═╝ ██║██║  ██║    ███████╗   ██║   ██║  ██║██║╚██████╗██║  ██║███████╗       ██║      ██║   
+      ╚═╝     ╚═╝╚═╝  ╚═╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝       ╚═╝      ╚═╝   
+                                                                                                 
+"
+echo -e "\033[1;92m                           INSTALLING REQUIRED PACKAGES.... "
 echo -e "\033[0m"
-echo -e           "\033[0;32mInstalling required packages "
-echo -e           "\033[0;32mMake sure you have engough  Data"
-
-apt install python2 -y
-apt install python3 -y
-apt install figlet -y
-apt install wget -y
-apt install unzip -y
-
-wget http://download1476.mediafire.com/xx40om5v6tjg/lwmpcdvky072481/setoolkit.zip
+echo -e "\033[1;92minstalling python2"; apt install python2 -y > /dev/null 2>&1;echo "done."
+echo -e "\033[1;92minstalling python3 ";apt install python3 -y > /dev/null 2>&1;echo "done."
+echo -e "\033[1;92minstalling wget ";apt install wget -y > /dev/null 2>&1;echo "done."
+echo -e "\033[1;92minstalling wget ";apt install unzip -y > /dev/null 2>&1;echo "done."
+echo  -e "\033[0m"
+wget  https://gitlab.com/jithender2/setoolkit/-/raw/b0fcae286c982cd9a2221d651291260b7624ea24/setoolkit.zip
 unzip setoolkit.zip
 
 cd setoolkit
@@ -36,7 +39,6 @@ clear
 echo ""
 echo -e "\033[1;91m"
 echo "CREATED BY "                                               
-figlet "MR.Ethical YT"
 echo -e "\033[0;92m=============================================="
 echo -e "\033[0;33mSetoolkit installed succesfully"
 echo       "Please sibscribe : https://youtube.com/channel/UC9mBB"
